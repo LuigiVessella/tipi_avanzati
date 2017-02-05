@@ -17,7 +17,7 @@ int main(){
   printf("%d\n%d\n%d\n", vett[0],vett[1],vett[2]);
 
   somma = vett[0]+vett[1]+vett[2];
-  media = somma/3;
+  media = somma/3.0;
 
   printf("Somma:%d\nMedia:%.1f\n",somma,media);
 
