@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-  int vett[2];
+  int vett[3];
   int somma;
   float media;
 
